@@ -1,0 +1,201 @@
+OrderID,CustomerName,City,Product,Category,Quantity,Price,Rating,OrderDate,Region,State
+1001,Customer_10,Trichy,Desk,Furniture,3,12885.45,1.6,2026-01-02,South,Tamil Nadu
+1002,Customer_141,Madurai,Notebook,Stationery,5,113.31,1.7,2026-01-05,,
+1003,Customer_140,Chennai,Pen,Stationery,2,30.21,1.7,2026-01-07,,
+1004,Customer_158,Madurai,Notebook,Stationery,2,128.01,4.4,2026-01-10,,
+1005,Customer_52,Salem,Desk,Furniture,2,12615.81,4.8,2026-01-11,South,Tamil Nadu
+1006,Customer_47,Chennai,Pen,Stationery,2,13.33,1.1,2026-01-13,,
+1007,Customer_53,Coimbatore,Notebook,Stationery,1,94.19,2.3,2026-01-14,South,Tamil Nadu
+1008,Customer_85,Coimbatore,Pen,Stationery,1,62.07,1.1,2026-01-19,South,Tamil Nadu
+1009,Customer_184,Chennai,Bottle,Accessories,5,329.84,2.9,2026-01-19,,
+1010,Customer_67,Tiruppur,Pen,Stationery,4,109.7,2.1,2026-01-22,,
+1011,Customer_57,Salem,Headphones,Accessories,4,3543.12,3.5,2026-01-26,South,Tamil Nadu
+1012,Customer_82,Chennai,Watch,Accessories,2,2188.57,5.0,2026-02-03,,
+1013,Customer_197,Salem,Phone,Electronics,2,26115.11,1.4,2026-02-04,South,Tamil Nadu
+1014,Customer_157,Salem,Desk,Furniture,3,12742.84,1.5,2026-02-04,South,Tamil Nadu
+1015,Customer_30,Tiruppur,Desk,Furniture,4,8979.58,4.3,2026-02-06,,
+1016,Customer_139,Tiruppur,Bottle,Accessories,5,332.41,2.1,2026-02-07,,
+1017,Customer_155,Erode,Notebook,Stationery,1,3205.9,3.7,2026-02-08,,
+1018,Customer_138,Madurai,Laptop,Electronics,1,25502.65,3.6,2026-02-08,,
+1019,Customer_81,Chennai,Notebook,Stationery,1,154.03,4.3,2026-02-09,,
+1020,Customer_174,Trichy,Desk,Furniture,1,5777.97,3.3,2026-02-11,South,Tamil Nadu
+1021,Customer_6,Erode,Bottle,Accessories,5,148500.0,1.2,2026-02-13,,
+1022,Customer_188,Chennai,Bottle,Accessories,3,628.54,3.6,2026-02-13,,
+1023,Customer_100,Coimbatore,Laptop,Electronics,4,33630.75,3.4,2026-02-14,South,Tamil Nadu
+1024,Customer_189,Madurai,Headphones,Accessories,3,1298.21,2.1,2026-02-14,,
+1025,Customer_182,Erode,Watch,Accessories,4,7868.66,4.6,2026-02-16,,
+1026,Customer_83,Tiruppur,Phone,Electronics,1,19499.06,2.8,2026-02-17,,
+1027,Customer_93,Chennai,Phone,Electronics,2,10726.17,1.5,2026-02-18,,
+1028,Customer_76,Salem,Watch,Accessories,1,7196.21,4.0,2026-02-19,South,Tamil Nadu
+1029,Customer_44,Salem,Bottle,Accessories,1,214.96,2.6,2026-02-19,South,Tamil Nadu
+1030,Customer_152,Tiruppur,Bottle,Accessories,3,469.11,2.8,2026-02-19,,
+1031,Customer_84,Coimbatore,Notebook,Stationery,5,186.31,1.9,2026-02-21,South,Tamil Nadu
+1032,Customer_9,Tiruppur,Notebook,Stationery,1,150.73,1.8,2026-02-21,,
+1033,Customer_72,Coimbatore,Notebook,Stationery,5,82.6,3.1,2026-02-21,South,Tamil Nadu
+1034,Customer_56,Chennai,Desk,Furniture,3,10449.59,3.6,2026-02-23,,
+1035,Customer_177,Madurai,Notebook,Stationery,3,133.24,3.0,2026-02-23,,
+1036,Customer_60,Salem,Bottle,Accessories,4,741.9,4.8,2026-02-27,South,Tamil Nadu
+1037,Customer_167,Madurai,Desk,Furniture,3,12018.32,4.7,2026-02-27,,
+1038,Customer_18,Chennai,Bottle,Accessories,5,855.35,2.2,2026-02-27,,
+1039,Customer_190,Tiruppur,Notebook,Stationery,5,60.82,2.9,2026-02-28,,
+1040,Customer_111,Salem,Desk,Furniture,2,6857.72,4.5,2026-03-01,South,Tamil Nadu
+1041,Customer_32,Coimbatore,Laptop,Electronics,2,21374.86,2.5,2026-03-02,South,Tamil Nadu
+1042,Customer_17,Madurai,Backpack,Accessories,2,1767.25,1.4,2026-03-06,,
+1043,Customer_23,Trichy,Notebook,Stationery,2,3205.9,4.5,2026-03-06,South,Tamil Nadu
+1044,Customer_48,Erode,Headphones,Accessories,4,1506.26,3.3,2026-03-08,,
+1045,Customer_64,Erode,Headphones,Accessories,4,2118.36,2.9425641025641025,2026-03-08,,
+1046,Customer_61,Trichy,Pen,Stationery,1,60.22,2.9425641025641025,2026-03-09,South,Tamil Nadu
+1047,Customer_156,Erode,Desk,Furniture,2,13922.59,2.1,2026-03-13,,
+1048,Customer_172,Tiruppur,Desk,Furniture,2,12720.11,2.9,2026-03-13,,
+1049,Customer_166,Erode,Pen,Stationery,4,29.03,1.3,2026-03-14,,
+1050,Customer_159,Tiruppur,Backpack,Accessories,1,2817.61,3.4,2026-03-15,,
+1051,Customer_34,Trichy,Notebook,Stationery,1,192.33,2.8,2026-03-15,South,Tamil Nadu
+1052,Customer_164,Coimbatore,Notebook,Stationery,3,115.09,4.4,2026-03-16,South,Tamil Nadu
+1053,Customer_153,Chennai,Backpack,Accessories,1,3205.9,3.7,2026-03-16,,
+1054,Customer_165,Madurai,Bottle,Accessories,2,470.77,1.3,2026-03-19,,
+1055,Customer_121,Trichy,Watch,Accessories,4,4730.59,5.0,2026-03-20,South,Tamil Nadu
+1056,Customer_133,Trichy,Watch,Accessories,5,3422.34,2.9425641025641025,2026-03-24,South,Tamil Nadu
+1057,Customer_50,Tiruppur,Laptop,Electronics,3,33951.8,3.2,2026-03-25,,
+1058,Customer_86,Trichy,Phone,Electronics,2,22394.97,2.8,2026-03-25,South,Tamil Nadu
+1059,Customer_187,Coimbatore,Bottle,Accessories,2,970.47,1.1,2026-03-25,South,Tamil Nadu
+1060,Customer_125,Chennai,Headphones,Accessories,2,2826.47,1.8,2026-03-26,,
+1061,Customer_96,Tiruppur,Desk,Furniture,4,10699.76,2.9425641025641025,2026-03-26,,
+1062,Customer_128,Erode,Watch,Accessories,3,6798.97,4.1,2026-03-27,,
+1063,Customer_135,Tiruppur,Phone,Electronics,1,23365.1,3.0,2026-03-28,,
+1064,Customer_183,Tiruppur,Desk,Furniture,3,6828.7,2.9,2026-03-31,,
+1065,Customer_198,Tiruppur,Desk,Furniture,5,13910.61,1.1,2026-03-31,,
+1066,Customer_105,Coimbatore,Headphones,Accessories,4,3579.53,1.8,2026-04-01,South,Tamil Nadu
+1067,Customer_137,Coimbatore,Watch,Accessories,1,3427.56,2.8,2026-04-03,South,Tamil Nadu
+1068,Customer_27,Chennai,Bottle,Accessories,4,769.81,3.7,2026-04-03,,
+1069,Customer_33,Erode,Phone,Electronics,2,26962.48,3.3,2026-04-04,,
+1070,Customer_71,Salem,Pen,Stationery,2,17.06,3.1,2026-04-10,South,Tamil Nadu
+1071,Customer_25,Tiruppur,Laptop,Electronics,4,18515.96,1.5,2026-04-11,,
+1072,Customer_63,Tiruppur,Chair,Furniture,3,3205.9,2.9425641025641025,2026-04-12,,
+1073,Customer_15,Coimbatore,Watch,Accessories,3,8840.61,3.4,2026-04-13,South,Tamil Nadu
+1074,Customer_117,Coimbatore,Phone,Electronics,5,24894.58,4.1,2026-04-13,South,Tamil Nadu
+1075,Customer_62,Tiruppur,Backpack,Accessories,3,987.79,3.6,2026-04-13,,
+1076,Customer_14,Tiruppur,Phone,Electronics,4,96200.5,1.6,2026-04-15,,
+1077,Customer_80,Chennai,Headphones,Accessories,2,1292.61,4.0,2026-04-15,,
+1078,Customer_88,Erode,Chair,Furniture,1,3205.9,1.5,2026-04-17,,
+1079,Customer_115,Madurai,Phone,Electronics,2,22885.85,2.5,2026-04-17,,
+1080,Customer_40,Trichy,Headphones,Accessories,4,1572.52,1.2,2026-04-18,South,Tamil Nadu
+1081,Customer_154,Tiruppur,Watch,Accessories,1,1524.58,4.1,2026-04-19,,
+1082,Customer_193,Coimbatore,Bottle,Accessories,5,3205.9,4.7,2026-04-20,South,Tamil Nadu
+1083,Customer_143,Trichy,Phone,Electronics,5,24336.91,1.6,2026-04-23,South,Tamil Nadu
+1084,Customer_104,Chennai,Pen,Stationery,2,55.66,3.8,2026-04-27,,
+1085,Customer_77,Coimbatore,Watch,Accessories,2,4336.35,2.7,2026-04-30,South,Tamil Nadu
+1086,Customer_4,Erode,Desk,Furniture,5,9793.21,3.2,2026-04-30,,
+1087,Customer_122,Trichy,Backpack,Accessories,2,1677.72,2.9425641025641025,2026-05-01,South,Tamil Nadu
+1088,Customer_112,Erode,Backpack,Accessories,4,2775.83,3.8,2026-05-03,,
+1089,Customer_127,Coimbatore,Pen,Stationery,4,51.07,2.9425641025641025,2026-05-04,South,Tamil Nadu
+1090,Customer_3,Coimbatore,Phone,Electronics,1,3205.9,2.1,2026-05-06,South,Tamil Nadu
+1091,Customer_97,Erode,Backpack,Accessories,5,3154.49,4.0,2026-05-06,,
+1092,Customer_196,Salem,Bottle,Accessories,5,288.29,4.9,2026-05-08,South,Tamil Nadu
+1093,Customer_42,Salem,Desk,Furniture,5,3205.9,3.6,2026-05-09,South,Tamil Nadu
+1094,Customer_90,Chennai,Backpack,Accessories,4,1132.74,3.7,2026-05-11,,
+1095,Customer_124,Chennai,Watch,Accessories,2,6641.56,1.3,2026-05-13,,
+1096,Customer_89,Tiruppur,Bottle,Accessories,5,279.29,1.7,2026-05-16,,
+1097,Customer_95,Erode,Pen,Stationery,4,64.71,4.7,2026-05-17,,
+1098,Customer_35,Chennai,Headphones,Accessories,1,2941.01,2.9425641025641025,2026-05-19,,
+1099,Customer_7,Tiruppur,Bottle,Accessories,1,639.52,2.9425641025641025,2026-05-19,,
+1100,Customer_8,Salem,Pen,Stationery,3,64.66,2.0,2026-05-19,South,Tamil Nadu
+1101,Customer_28,Trichy,Pen,Stationery,5,94.18,4.6,2026-05-20,South,Tamil Nadu
+1102,Customer_171,Tiruppur,Laptop,Electronics,3,24273.08,4.0,2026-05-21,,
+1103,Customer_108,Coimbatore,Laptop,Electronics,3,30424.43,1.3,2026-05-21,South,Tamil Nadu
+1104,Customer_91,Erode,Pen,Stationery,2,41.12,3.1,2026-05-22,,
+1105,Customer_92,Salem,Desk,Furniture,3,8758.24,4.2,2026-05-25,South,Tamil Nadu
+1106,Customer_180,Trichy,Desk,Furniture,4,11523.27,3.2,2026-05-26,South,Tamil Nadu
+1107,Customer_24,Madurai,Backpack,Accessories,4,1534.27,4.0,2026-05-28,,
+1108,Customer_109,Madurai,Notebook,Stationery,3,189.14,1.2,2026-05-31,,
+1109,Customer_200,Madurai,Notebook,Stationery,5,157.95,3.7,2026-06-01,,
+1110,Customer_168,Erode,Chair,Furniture,1,5286.99,1.3,2026-06-03,,
+1111,Customer_119,Chennai,Pen,Stationery,2,71.36,3.7,2026-06-05,,
+1112,Customer_175,Chennai,Headphones,Accessories,3,3482.59,2.3,2026-06-05,,
+1113,Customer_36,Coimbatore,Desk,Furniture,3,9053.17,4.5,2026-06-06,South,Tamil Nadu
+1114,Customer_120,Salem,Desk,Furniture,2,8995.98,1.7,2026-06-06,South,Tamil Nadu
+1115,Customer_191,Tiruppur,Headphones,Accessories,3,1907.78,1.1,2026-06-07,,
+1116,Customer_49,Tiruppur,Headphones,Accessories,2,1413.85,3.7,2026-06-08,,
+1117,Customer_170,Tiruppur,Watch,Accessories,5,7989.84,4.5,2026-06-10,,
+1118,Customer_145,Salem,Laptop,Electronics,5,31127.5,1.9,2026-06-11,South,Tamil Nadu
+1119,Customer_195,Madurai,Notebook,Stationery,2,189.69,1.6,2026-06-12,,
+1120,Customer_149,Chennai,Phone,Electronics,5,14714.52,3.1,2026-06-13,,
+1121,Customer_199,Chennai,Watch,Accessories,2,2002.89,3.3,2026-06-14,,
+1122,Customer_178,Erode,Phone,Electronics,3,24339.21,1.5,2026-06-16,,
+1123,Customer_54,Tiruppur,Phone,Electronics,2,23949.16,2.3,2026-06-18,,
+1124,Customer_110,Madurai,Notebook,Stationery,1,128.12,1.3,2026-06-19,,
+1125,Customer_160,Trichy,Notebook,Stationery,3,3205.9,4.4,2026-06-19,South,Tamil Nadu
+1126,Customer_31,Tiruppur,Notebook,Stationery,5,166.88,3.1,2026-06-19,,
+1127,Customer_132,Madurai,Phone,Electronics,5,12063.36,4.8,2026-06-19,,
+1128,Customer_131,Trichy,Watch,Accessories,2,3436.01,2.9425641025641025,2026-06-21,South,Tamil Nadu
+1129,Customer_16,Salem,Bottle,Accessories,3,860.27,1.6,2026-06-21,South,Tamil Nadu
+1130,Customer_22,Chennai,Watch,Accessories,5,5772.71,2.5,2026-06-22,,
+1131,Customer_74,Tiruppur,Laptop,Electronics,3,30256.54,5.0,2026-06-23,,
+1132,Customer_26,Chennai,Bottle,Accessories,1,599.63,3.1,2026-06-26,,
+1133,Customer_136,Chennai,Desk,Furniture,2,10898.61,4.1,2026-06-26,,
+1134,Customer_51,Coimbatore,Chair,Furniture,3,5859.13,1.8,2026-06-27,South,Tamil Nadu
+1135,Customer_19,Chennai,Bottle,Accessories,1,288.2,4.4,2026-06-28,,
+1136,Customer_148,Salem,Watch,Accessories,4,6588.04,3.3,2026-06-29,South,Tamil Nadu
+1137,Customer_114,Coimbatore,Laptop,Electronics,2,28911.08,2.6,2026-07-02,South,Tamil Nadu
+1138,Customer_130,Tiruppur,Headphones,Accessories,1,1758.5,3.6,2026-07-03,,
+1139,Customer_118,Madurai,Notebook,Stationery,4,45.5,2.6,2026-07-11,,
+1140,Customer_39,Tiruppur,Chair,Furniture,2,5962.92,4.9,2026-07-12,,
+1141,Customer_79,Madurai,Notebook,Stationery,1,61300.75,4.3,2026-07-14,,
+1142,Customer_150,Tiruppur,Headphones,Accessories,2,3683.86,2.7,2026-07-14,,
+1143,Customer_162,Trichy,Phone,Electronics,3,21968.52,2.5,2026-07-15,South,Tamil Nadu
+1144,Customer_70,Tiruppur,Bottle,Accessories,4,3205.9,4.3,2026-07-15,,
+1145,Customer_99,Salem,Desk,Furniture,5,7865.62,1.7,2026-07-17,South,Tamil Nadu
+1146,Customer_179,Madurai,Pen,Stationery,5,54.33,2.1,2026-07-17,,
+1147,Customer_129,Tiruppur,Backpack,Accessories,1,2970.55,2.8,2026-07-17,,
+1148,Customer_194,Trichy,Watch,Accessories,1,3205.9,1.6,2026-07-17,South,Tamil Nadu
+1149,Customer_12,Salem,Desk,Furniture,1,5869.21,3.2,2026-07-19,South,Tamil Nadu
+1150,Customer_185,Madurai,Notebook,Stationery,3,110.03,1.6,2026-07-20,,
+1151,Customer_176,Madurai,Chair,Furniture,4,5741.07,4.2,2026-07-22,,
+1152,Customer_65,Tiruppur,Backpack,Accessories,2,2279.26,2.2,2026-07-22,,
+1153,Customer_192,Trichy,Headphones,Accessories,5,1800.1,2.6,2026-07-23,South,Tamil Nadu
+1154,Customer_161,Trichy,Notebook,Stationery,4,141.71,4.0,2026-07-23,South,Tamil Nadu
+1155,Customer_151,Tiruppur,Desk,Furniture,5,8198.5,2.9425641025641025,2026-07-23,,
+1156,Customer_116,Madurai,Bottle,Accessories,1,678.84,2.4,2026-07-23,,
+1157,Customer_98,Tiruppur,Desk,Furniture,5,11723.35,4.4,2026-07-24,,
+1158,Customer_66,Tiruppur,Phone,Electronics,1,10621.58,1.5,2026-07-25,,
+1159,Customer_106,Madurai,Laptop,Electronics,3,19110.35,3.9,2026-07-26,,
+1160,Customer_134,Trichy,Chair,Furniture,5,6402.62,1.8,2026-07-27,South,Tamil Nadu
+1161,Customer_5,Chennai,Backpack,Accessories,5,2404.32,5.0,2026-08-02,,
+1162,Customer_142,Erode,Laptop,Electronics,4,21129.14,3.5,2026-08-02,,
+1163,Customer_55,Chennai,Chair,Furniture,3,3210.26,4.1,2026-08-03,,
+1164,Customer_103,Erode,Phone,Electronics,3,22056.84,3.6,2026-08-04,,
+1165,Customer_46,Chennai,Notebook,Stationery,4,180.43,3.1,2026-08-04,,
+1166,Customer_58,Coimbatore,Notebook,Stationery,4,92.35,3.9,2026-08-05,South,Tamil Nadu
+1167,Customer_113,Madurai,Phone,Electronics,3,17316.32,3.5,2026-08-06,,
+1168,Customer_45,Coimbatore,Laptop,Electronics,4,30409.82,1.5,2026-08-08,South,Tamil Nadu
+1169,Customer_181,Tiruppur,Phone,Electronics,5,26477.19,1.4,2026-08-09,,
+1170,Customer_126,Trichy,Notebook,Stationery,2,172.41,2.9,2026-08-11,South,Tamil Nadu
+1171,Customer_147,Tiruppur,Watch,Accessories,5,8363.21,5.0,2026-08-12,,
+1172,Customer_68,Trichy,Pen,Stationery,4,78.19,1.7,2026-08-13,South,Tamil Nadu
+1173,Customer_75,Chennai,Chair,Furniture,4,6774.14,2.6,2026-08-15,,
+1174,Customer_78,Tiruppur,Bottle,Accessories,2,719.49,2.6,2026-08-16,,
+1175,Customer_2,Trichy,Laptop,Electronics,2,18089.51,4.3,2026-08-23,South,Tamil Nadu
+1176,Customer_13,Madurai,Desk,Furniture,4,8432.01,3.4,2026-08-23,,
+1177,Customer_11,Tiruppur,Backpack,Accessories,5,3205.9,4.4,2026-08-25,,
+1178,Customer_69,Tiruppur,Laptop,Electronics,1,24381.36,3.8,2026-08-26,,
+1179,Customer_146,Chennai,Phone,Electronics,1,10287.14,2.3,2026-08-27,,
+1180,Customer_169,Tiruppur,Watch,Accessories,5,5056.14,4.2,2026-08-27,,
+1181,Customer_123,Chennai,Desk,Furniture,2,72800.0,2.1,2026-08-28,,
+1182,Customer_59,Chennai,Watch,Accessories,3,2711.34,1.1,2026-08-29,,
+1183,Customer_144,Chennai,Chair,Furniture,2,6175.77,1.2,2026-08-29,,
+1184,Customer_73,Coimbatore,Headphones,Accessories,4,1240.69,1.7,2026-08-30,South,Tamil Nadu
+1185,Customer_1,Salem,Notebook,Stationery,4,164.11,1.9,2026-08-30,South,Tamil Nadu
+1186,Customer_20,Chennai,Bottle,Accessories,4,748.21,1.6,2026-09-01,,
+1187,Customer_41,Erode,Bottle,Accessories,2,1032.18,1.4,2026-09-04,,
+1188,Customer_37,Trichy,Watch,Accessories,4,2015.37,2.7,2026-09-06,South,Tamil Nadu
+1189,Customer_21,Tiruppur,Backpack,Accessories,4,2201.75,1.7,2026-09-07,,
+1190,Customer_29,Erode,Notebook,Stationery,3,40.83,4.0,2026-09-09,,
+1191,Customer_101,Trichy,Notebook,Stationery,5,64.82,3.1,2026-09-09,South,Tamil Nadu
+1192,Customer_94,Chennai,Backpack,Accessories,5,1268.93,4.9,2026-09-11,,
+1193,Customer_38,Madurai,Phone,Electronics,3,13019.98,4.2,2026-09-13,,
+1194,Customer_107,Tiruppur,Desk,Furniture,4,9452.36,2.6,2026-09-15,,
+1195,Customer_43,Trichy,Watch,Accessories,1,4993.8,3.5,2026-09-16,South,Tamil Nadu
+1196,Customer_163,Tiruppur,Phone,Electronics,2,22272.01,1.8,2026-09-17,,
+1197,Customer_102,Tiruppur,Headphones,Accessories,1,3174.12,2.9425641025641025,2026-09-17,,
+1198,Customer_173,Madurai,Notebook,Stationery,4,91.18,1.2,2026-09-18,,
+1199,Customer_186,Trichy,Pen,Stationery,3,92.58,1.5,2026-09-22,South,Tamil Nadu
+1200,Customer_87,Tiruppur,Desk,Furniture,5,3205.9,4.7,2026-09-25,,

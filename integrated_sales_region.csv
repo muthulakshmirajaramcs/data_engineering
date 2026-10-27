@@ -1,0 +1,209 @@
+OrderID,CustomerName,City,Product,Category,Quantity,Price,Rating,OrderDate,Region,State
+1001,Customer_1,Bengaluru,Printer,Electronics,1,2903.71,2.9733990147783245,2025-01-01,South,Karnataka
+1002,Customer_2,Mumbai,Monitor,Electronics,2,14309.89,3.9,2025-01-01,West,Maharashtra
+1003,Customer_3,Bengaluru,Laptop,Electronics,3,31306.67,3.2,2025-01-02,South,Karnataka
+1004,Customer_4,Trichy,Headphones,Accessories,4,16285.29,1.3,2025-01-03,South,Tamil Nadu
+1005,Customer_5,Bengaluru,Smartwatch,Accessories,5,8955.83,3.0,2025-01-03,South,Karnataka
+1006,Customer_6,Hyderabad,Tablet,Electronics,1,21895.74,4.2,2025-01-04,South,Telangana
+1007,Customer_7,Mumbai,Camera,Electronics,2,12499.65,1.3,2025-01-05,West,Maharashtra
+1008,Customer_8,Bengaluru,Keyboard,Accessories,3,9576.59,4.6,2025-01-05,South,Karnataka
+1009,Customer_9,Trichy,Printer,Electronics,4,7221.64,2.8,2025-01-06,South,Tamil Nadu
+1010,Customer_10,Chennai,Monitor,Electronics,5,29832.99,1.1,2025-01-07,South,Tamil Nadu
+1011,Customer_11,Hyderabad,Laptop,Electronics,1,19417.29,4.8,2025-01-07,South,Telangana
+1012,Customer_12,Mumbai,Headphones,Accessories,2,7754.54,3.2,2025-01-08,West,Maharashtra
+1013,Customer_13,Bengaluru,Smartwatch,Accessories,3,29137.54,1.5,2025-01-09,South,Karnataka
+1014,Customer_14,Trichy,Tablet,Electronics,4,16987.5,4.0,2025-01-09,South,Tamil Nadu
+1015,Customer_15,Chennai,Camera,Electronics,5,17016.89,2.9,2025-01-10,South,Tamil Nadu
+1016,Customer_16,Hyderabad,Keyboard,Accessories,1,6952.75,3.0,2025-01-11,South,Telangana
+1017,Customer_17,Mumbai,Printer,Electronics,2,12230.12,2.9,2025-01-11,West,Maharashtra
+1018,Customer_18,Bengaluru,Monitor,Electronics,3,12025.55,4.4,2025-01-12,South,Karnataka
+1019,Customer_19,Trichy,Laptop,Electronics,4,24712.4,2.9733990147783245,2025-01-13,South,Tamil Nadu
+1020,Customer_20,Chennai,Headphones,Accessories,5,18537.7,2.1,2025-01-13,South,Tamil Nadu
+1021,Customer_21,Bengaluru,Smartwatch,Accessories,1,14764.55,2.4,2025-01-14,South,Karnataka
+1022,Customer_22,Mumbai,Tablet,Electronics,2,21208.08,2.5,2025-01-15,West,Maharashtra
+1023,Customer_23,Bengaluru,Camera,Electronics,3,14961.43,3.9,2025-01-15,South,Karnataka
+1024,Customer_24,Trichy,Keyboard,Accessories,4,13509.24,4.6,2025-01-16,South,Tamil Nadu
+1025,Customer_25,Chennai,Printer,Electronics,5,6184.23,4.0,2025-01-17,South,Tamil Nadu
+1026,Customer_26,Hyderabad,Monitor,Electronics,1,13804.78,2.7,2025-01-17,South,Telangana
+1027,Customer_27,Mumbai,Laptop,Electronics,2,20482.97,3.1,2025-01-18,West,Maharashtra
+1028,Customer_28,Bengaluru,Headphones,Accessories,3,13568.91,1.0,2025-01-19,South,Karnataka
+1029,Customer_29,Trichy,Smartwatch,Accessories,4,3406.26,3.8,2025-01-19,South,Tamil Nadu
+1030,Customer_30,Chennai,Tablet,Electronics,5,17016.89,3.8,2025-01-20,South,Tamil Nadu
+1031,Customer_31,Hyderabad,Camera,Electronics,1,17016.89,3.7,2025-01-21,South,Telangana
+1032,Customer_32,Mumbai,Keyboard,Accessories,2,2173.55,2.2,2025-01-21,West,Maharashtra
+1033,Customer_33,Bengaluru,Printer,Electronics,3,19166.73,1.9,2025-01-22,South,Karnataka
+1034,Customer_34,Trichy,Monitor,Electronics,4,30896.59,4.8,2025-01-23,South,Tamil Nadu
+1035,Customer_35,Chennai,Laptop,Electronics,5,27224.63,2.9,2025-01-23,South,Tamil Nadu
+1036,Customer_36,Bengaluru,Headphones,Accessories,1,27006.52,1.5,2025-01-24,South,Karnataka
+1037,Customer_37,Mumbai,Smartwatch,Accessories,2,10225.11,2.9,2025-01-25,West,Maharashtra
+1038,Customer_38,Bengaluru,Tablet,Electronics,3,23868.19,2.9,2025-01-25,South,Karnataka
+1039,Customer_39,Trichy,Camera,Electronics,4,4811.6,2.9733990147783245,2025-01-26,South,Tamil Nadu
+1040,Customer_40,Chennai,Keyboard,Accessories,5,10719.42,2.2,2025-01-27,South,Tamil Nadu
+1041,Customer_41,Hyderabad,Printer,Electronics,1,5713.29,2.7,2025-01-27,South,Telangana
+1042,Customer_42,Mumbai,Monitor,Electronics,2,14615.8,4.1,2025-01-28,West,Maharashtra
+1043,Customer_43,Bengaluru,Laptop,Electronics,3,25586.31,3.1,2025-01-29,South,Karnataka
+1044,Customer_44,Trichy,Headphones,Accessories,4,15009.85,4.1,2025-01-29,South,Tamil Nadu
+1045,Customer_45,Chennai,Smartwatch,Accessories,5,28449.6,3.7,2025-01-30,South,Tamil Nadu
+1046,Customer_46,Hyderabad,Tablet,Electronics,1,17016.89,4.8,2025-01-31,South,Telangana
+1047,Customer_47,Mumbai,Camera,Electronics,2,1780.66,4.5,2025-01-31,West,Maharashtra
+1048,Customer_48,Bengaluru,Keyboard,Accessories,3,9211.74,2.9,2025-02-01,South,Karnataka
+1049,Customer_49,Trichy,Printer,Electronics,4,25597.97,3.9,2025-02-02,South,Tamil Nadu
+1050,Customer_50,Chennai,Monitor,Electronics,5,5135.15,3.6,2025-02-02,South,Tamil Nadu
+1051,Customer_51,Bengaluru,Laptop,Electronics,1,2681.44,2.4,2025-02-03,South,Karnataka
+1052,Customer_52,Mumbai,Headphones,Accessories,2,26104.13,2.7,2025-02-04,West,Maharashtra
+1053,Customer_53,Bengaluru,Smartwatch,Accessories,3,19395.41,3.9,2025-02-04,South,Karnataka
+1054,Customer_54,Trichy,Tablet,Electronics,4,26368.67,4.0,2025-02-05,South,Tamil Nadu
+1055,Customer_55,Chennai,Camera,Electronics,5,725.01,2.7,2025-02-06,South,Tamil Nadu
+1056,Customer_56,Hyderabad,Keyboard,Accessories,1,15088.79,1.2,2025-02-06,South,Telangana
+1057,Customer_57,Mumbai,Printer,Electronics,2,17555.43,3.4,2025-02-07,West,Maharashtra
+1058,Customer_58,Bengaluru,Monitor,Electronics,3,26596.28,4.8,2025-02-08,South,Karnataka
+1059,Customer_59,Trichy,Laptop,Electronics,4,4536.66,2.9733990147783245,2025-02-08,South,Tamil Nadu
+1060,Customer_60,Chennai,Headphones,Accessories,5,21263.49,1.5,2025-02-09,South,Tamil Nadu
+1061,Customer_61,Hyderabad,Smartwatch,Accessories,1,17016.89,3.3,2025-02-10,South,Telangana
+1062,Customer_62,Mumbai,Tablet,Electronics,2,5840.0,4.1,2025-02-10,West,Maharashtra
+1063,Customer_63,Bengaluru,Camera,Electronics,3,27494.73,1.1,2025-02-11,South,Karnataka
+1064,Customer_64,Trichy,Keyboard,Accessories,4,160817.1,4.2,2025-02-12,South,Tamil Nadu
+1065,Customer_65,Chennai,Printer,Electronics,5,31216.9,2.1,2025-02-12,South,Tamil Nadu
+1066,Customer_66,Hyderabad,Monitor,Electronics,1,5826.68,4.5,2025-02-13,South,Telangana
+1067,Customer_67,Mumbai,Laptop,Electronics,2,29139.25,1.8,2025-02-14,West,Maharashtra
+1068,Customer_68,Bengaluru,Headphones,Accessories,3,14408.19,3.9,2025-02-14,South,Karnataka
+1069,Customer_69,Trichy,Smartwatch,Accessories,4,27128.37,1.7,2025-02-15,South,Tamil Nadu
+1070,Customer_70,Chennai,Tablet,Electronics,5,21446.52,4.2,2025-02-16,South,Tamil Nadu
+1071,Customer_71,Bengaluru,Camera,Electronics,1,17815.99,1.7,2025-02-16,South,Karnataka
+1072,Customer_72,Mumbai,Keyboard,Accessories,2,1619.16,2.1,2025-02-17,West,Maharashtra
+1073,Customer_73,Bengaluru,Printer,Electronics,3,25947.93,1.2,2025-02-18,South,Karnataka
+1074,Customer_74,Trichy,Monitor,Electronics,4,758.82,2.4,2025-02-18,South,Tamil Nadu
+1075,Customer_75,Chennai,Laptop,Electronics,5,2504.1,1.6,2025-02-19,South,Tamil Nadu
+1076,Customer_76,Hyderabad,Headphones,Accessories,1,17016.89,3.1,2025-02-20,South,Telangana
+1077,Customer_77,Mumbai,Smartwatch,Accessories,2,22445.92,2.7,2025-02-20,West,Maharashtra
+1078,Customer_78,Bengaluru,Tablet,Electronics,3,4738.97,2.3,2025-02-21,South,Karnataka
+1079,Customer_79,Trichy,Camera,Electronics,4,19095.89,2.9733990147783245,2025-02-22,South,Tamil Nadu
+1080,Customer_80,Chennai,Keyboard,Accessories,5,31765.57,2.0,2025-02-22,South,Tamil Nadu
+1081,Customer_81,Hyderabad,Printer,Electronics,1,833.27,4.3,2025-02-23,South,Telangana
+1082,Customer_82,Mumbai,Monitor,Electronics,2,29688.31,2.8,2025-02-24,West,Maharashtra
+1083,Customer_83,Bengaluru,Laptop,Electronics,3,24800.43,4.5,2025-02-24,South,Karnataka
+1084,Customer_84,Trichy,Headphones,Accessories,4,19702.87,4.5,2025-02-25,South,Tamil Nadu
+1085,Customer_85,Chennai,Smartwatch,Accessories,5,1252.95,2.1,2025-02-26,South,Tamil Nadu
+1086,Customer_86,Hyderabad,Tablet,Electronics,1,9232.42,1.5,2025-02-26,South,Telangana
+1087,Customer_87,Mumbai,Camera,Electronics,2,29187.47,1.1,2025-02-27,West,Maharashtra
+1088,Customer_88,Bengaluru,Keyboard,Accessories,3,21685.67,1.3,2025-02-28,South,Karnataka
+1089,Customer_89,Trichy,Printer,Electronics,4,11864.59,2.7,2025-02-28,South,Tamil Nadu
+1090,Customer_90,Chennai,Monitor,Electronics,5,6214.24,3.1,2025-03-01,South,Tamil Nadu
+1091,Customer_91,Bengaluru,Laptop,Electronics,1,17352.24,2.3,2025-03-02,South,Karnataka
+1092,Customer_92,Mumbai,Headphones,Accessories,2,23718.27,1.6,2025-03-02,West,Maharashtra
+1093,Customer_93,Bengaluru,Smartwatch,Accessories,3,6564.01,2.4,2025-03-03,South,Karnataka
+1094,Customer_94,Trichy,Tablet,Electronics,4,12418.85,1.8,2025-03-04,South,Tamil Nadu
+1095,Customer_95,Chennai,Camera,Electronics,5,29439.34,4.3,2025-03-04,South,Tamil Nadu
+1096,Customer_96,Hyderabad,Keyboard,Accessories,1,3866.62,2.5,2025-03-05,South,Telangana
+1097,Customer_97,Mumbai,Printer,Electronics,2,7829.14,2.8,2025-03-06,West,Maharashtra
+1098,Customer_98,Bengaluru,Monitor,Electronics,3,9203.99,3.0,2025-03-06,South,Karnataka
+1099,Customer_99,Trichy,Laptop,Electronics,4,29562.0,2.9733990147783245,2025-03-07,South,Tamil Nadu
+1100,Customer_100,Chennai,Headphones,Accessories,5,20979.04,3.4,2025-03-08,South,Tamil Nadu
+1101,Customer_101,Hyderabad,Smartwatch,Accessories,1,17016.89,1.2,2025-03-08,South,Telangana
+1102,Customer_102,Mumbai,Tablet,Electronics,2,23961.95,4.8,2025-03-09,West,Maharashtra
+1103,Customer_103,Bengaluru,Camera,Electronics,3,19512.13,2.2,2025-03-10,South,Karnataka
+1104,Customer_104,Trichy,Keyboard,Accessories,4,21679.63,3.8,2025-03-10,South,Tamil Nadu
+1105,Customer_105,Chennai,Printer,Electronics,5,21178.18,1.6,2025-03-11,South,Tamil Nadu
+1106,Customer_106,Hyderabad,Monitor,Electronics,1,31164.48,4.8,2025-03-12,South,Telangana
+1107,Customer_107,Mumbai,Laptop,Electronics,2,13875.7,3.4,2025-03-12,West,Maharashtra
+1108,Customer_108,Bengaluru,Headphones,Accessories,3,1748.3,5.0,2025-03-13,South,Karnataka
+1109,Customer_109,Trichy,Smartwatch,Accessories,4,26290.47,3.5,2025-03-14,South,Tamil Nadu
+1110,Customer_110,Chennai,Tablet,Electronics,5,24474.17,1.8,2025-03-14,South,Tamil Nadu
+1111,Customer_111,Bengaluru,Camera,Electronics,1,10191.12,2.0,2025-03-15,South,Karnataka
+1112,Customer_112,Mumbai,Keyboard,Accessories,2,149415.18,1.4,2025-03-16,West,Maharashtra
+1113,Customer_113,Bengaluru,Printer,Electronics,3,28711.71,2.8,2025-03-16,South,Karnataka
+1114,Customer_114,Trichy,Monitor,Electronics,4,14511.59,1.4,2025-03-17,South,Tamil Nadu
+1115,Customer_115,Chennai,Laptop,Electronics,5,22074.48,4.3,2025-03-18,South,Tamil Nadu
+1116,Customer_116,Hyderabad,Headphones,Accessories,1,20330.83,2.0,2025-03-18,South,Telangana
+1117,Customer_117,Mumbai,Smartwatch,Accessories,2,25240.75,1.6,2025-03-19,West,Maharashtra
+1118,Customer_118,Bengaluru,Tablet,Electronics,3,26559.2,3.3,2025-03-20,South,Karnataka
+1119,Customer_119,Trichy,Camera,Electronics,4,9615.24,2.9733990147783245,2025-03-20,South,Tamil Nadu
+1120,Customer_120,Chennai,Keyboard,Accessories,5,20308.82,2.0,2025-03-21,South,Tamil Nadu
+1121,Customer_121,Hyderabad,Printer,Electronics,1,27177.56,2.7,2025-03-22,South,Telangana
+1122,Customer_122,Mumbai,Monitor,Electronics,2,28608.63,4.3,2025-03-22,West,Maharashtra
+1123,Customer_123,Bengaluru,Laptop,Electronics,3,3629.45,3.6,2025-03-23,South,Karnataka
+1124,Customer_124,Trichy,Headphones,Accessories,4,10280.58,4.0,2025-03-24,South,Tamil Nadu
+1125,Customer_125,Chennai,Smartwatch,Accessories,5,17592.9,2.8,2025-03-24,South,Tamil Nadu
+1126,Customer_126,Hyderabad,Tablet,Electronics,1,28704.05,1.2,2025-03-25,South,Telangana
+1127,Customer_127,Mumbai,Camera,Electronics,2,18055.51,2.3,2025-03-26,West,Maharashtra
+1128,Customer_128,Bengaluru,Keyboard,Accessories,3,1611.11,4.0,2025-03-26,South,Karnataka
+1129,Customer_129,Trichy,Printer,Electronics,4,18194.83,4.6,2025-03-27,South,Tamil Nadu
+1130,Customer_130,Chennai,Monitor,Electronics,5,19345.23,2.3,2025-03-28,South,Tamil Nadu
+1131,Customer_131,Bengaluru,Laptop,Electronics,1,31534.42,1.5,2025-03-28,South,Karnataka
+1132,Customer_132,Mumbai,Headphones,Accessories,2,2156.95,3.9,2025-03-29,West,Maharashtra
+1133,Customer_133,Bengaluru,Smartwatch,Accessories,3,12182.56,2.4,2025-03-30,South,Karnataka
+1134,Customer_134,Trichy,Tablet,Electronics,4,28110.76,2.3,2025-03-30,South,Tamil Nadu
+1135,Customer_135,Chennai,Camera,Electronics,5,28503.14,3.6,2025-03-31,South,Tamil Nadu
+1136,Customer_136,Hyderabad,Keyboard,Accessories,1,10865.06,1.2,2025-04-01,South,Telangana
+1137,Customer_137,Mumbai,Printer,Electronics,2,8220.94,4.9,2025-04-01,West,Maharashtra
+1138,Customer_138,Bengaluru,Monitor,Electronics,3,13265.93,1.6,2025-04-02,South,Karnataka
+1139,Customer_139,Trichy,Laptop,Electronics,4,9887.42,2.9733990147783245,2025-04-03,South,Tamil Nadu
+1140,Customer_140,Chennai,Headphones,Accessories,5,5696.77,4.1,2025-04-03,South,Tamil Nadu
+1141,Customer_141,Hyderabad,Smartwatch,Accessories,1,17016.89,4.8,2025-04-04,South,Telangana
+1142,Customer_142,Mumbai,Tablet,Electronics,2,17201.47,1.2,2025-04-05,West,Maharashtra
+1143,Customer_143,Bengaluru,Camera,Electronics,3,29825.07,2.4,2025-04-05,South,Karnataka
+1144,Customer_144,Trichy,Keyboard,Accessories,4,23539.77,3.1,2025-04-06,South,Tamil Nadu
+1145,Customer_145,Chennai,Printer,Electronics,5,3416.33,1.4,2025-04-07,South,Tamil Nadu
+1146,Customer_146,Hyderabad,Monitor,Electronics,1,5200.59,1.6,2025-04-07,South,Telangana
+1147,Customer_147,Mumbai,Laptop,Electronics,2,2161.81,1.2,2025-04-08,West,Maharashtra
+1148,Customer_148,Bengaluru,Headphones,Accessories,3,30375.49,1.4,2025-04-09,South,Karnataka
+1149,Customer_149,Trichy,Smartwatch,Accessories,4,16513.08,1.5,2025-04-09,South,Tamil Nadu
+1150,Customer_150,Chennai,Tablet,Electronics,5,7265.82,4.1,2025-04-10,South,Tamil Nadu
+1151,Customer_151,Bengaluru,Camera,Electronics,1,30051.25,2.9,2025-04-11,South,Karnataka
+1152,Customer_152,Mumbai,Keyboard,Accessories,2,677.72,5.0,2025-04-11,West,Maharashtra
+1153,Customer_153,Bengaluru,Printer,Electronics,3,2004.86,2.6,2025-04-12,South,Karnataka
+1154,Customer_154,Trichy,Monitor,Electronics,4,17480.29,4.6,2025-04-13,South,Tamil Nadu
+1155,Customer_155,Chennai,Laptop,Electronics,5,26428.03,3.4,2025-04-13,South,Tamil Nadu
+1156,Customer_156,Hyderabad,Headphones,Accessories,1,13055.97,4.3,2025-04-14,South,Telangana
+1157,Customer_157,Mumbai,Smartwatch,Accessories,2,27875.34,4.5,2025-04-15,West,Maharashtra
+1158,Customer_158,Bengaluru,Tablet,Electronics,3,23105.55,1.4,2025-04-15,South,Karnataka
+1159,Customer_159,Trichy,Camera,Electronics,4,9905.25,2.9733990147783245,2025-04-16,South,Tamil Nadu
+1160,Customer_160,Chennai,Keyboard,Accessories,5,16409.18,4.3,2025-04-17,South,Tamil Nadu
+1161,Customer_161,Hyderabad,Printer,Electronics,1,17016.89,3.7,2025-04-17,South,Telangana
+1162,Customer_162,Mumbai,Monitor,Electronics,2,12287.3,4.1,2025-04-18,West,Maharashtra
+1163,Customer_163,Bengaluru,Laptop,Electronics,3,6666.89,2.9,2025-04-19,South,Karnataka
+1164,Customer_164,Trichy,Headphones,Accessories,4,3762.1,1.8,2025-04-19,South,Tamil Nadu
+1165,Customer_165,Chennai,Smartwatch,Accessories,5,29958.0,2.3,2025-04-20,South,Tamil Nadu
+1166,Customer_166,Hyderabad,Tablet,Electronics,1,28628.78,3.1,2025-04-21,South,Telangana
+1167,Customer_167,Mumbai,Camera,Electronics,2,1729.54,4.2,2025-04-21,West,Maharashtra
+1168,Customer_168,Bengaluru,Keyboard,Accessories,3,2136.64,4.3,2025-04-22,South,Karnataka
+1169,Customer_169,Trichy,Printer,Electronics,4,777.17,3.7,2025-04-23,South,Tamil Nadu
+1170,Customer_170,Chennai,Monitor,Electronics,5,5719.99,2.4,2025-04-23,South,Tamil Nadu
+1171,Customer_171,Bengaluru,Laptop,Electronics,1,30511.67,2.9,2025-04-24,South,Karnataka
+1172,Customer_172,Mumbai,Headphones,Accessories,2,21208.93,4.0,2025-04-25,West,Maharashtra
+1173,Customer_173,Bengaluru,Smartwatch,Accessories,3,3962.73,4.4,2025-04-25,South,Karnataka
+1174,Customer_174,Trichy,Tablet,Electronics,4,29288.48,1.6,2025-04-26,South,Tamil Nadu
+1175,Customer_175,Chennai,Camera,Electronics,5,17706.51,2.1,2025-04-27,South,Tamil Nadu
+1176,Customer_176,Hyderabad,Keyboard,Accessories,1,23830.37,1.1,2025-04-27,South,Telangana
+1177,Customer_177,Mumbai,Printer,Electronics,2,16645.23,4.2,2025-04-28,West,Maharashtra
+1178,Customer_178,Bengaluru,Monitor,Electronics,3,23644.21,1.4,2025-04-29,South,Karnataka
+1179,Customer_179,Trichy,Laptop,Electronics,4,26737.61,2.9733990147783245,2025-04-29,South,Tamil Nadu
+1180,Customer_180,Chennai,Headphones,Accessories,5,25945.31,3.0,2025-04-30,South,Tamil Nadu
+1181,Customer_181,Hyderabad,Smartwatch,Accessories,1,17016.89,3.9,2025-05-01,South,Telangana
+1182,Customer_182,Mumbai,Tablet,Electronics,2,25949.26,3.8,2025-05-01,West,Maharashtra
+1183,Customer_183,Bengaluru,Camera,Electronics,3,30892.66,2.0,2025-05-02,South,Karnataka
+1184,Customer_184,Trichy,Keyboard,Accessories,4,7926.51,1.6,2025-05-03,South,Tamil Nadu
+1185,Customer_185,Chennai,Printer,Electronics,5,17491.3,2.6,2025-05-03,South,Tamil Nadu
+1186,Customer_186,Hyderabad,Monitor,Electronics,1,11734.85,2.8,2025-05-04,South,Telangana
+1187,Customer_187,Mumbai,Laptop,Electronics,2,9148.08,1.0,2025-05-05,West,Maharashtra
+1188,Customer_188,Bengaluru,Headphones,Accessories,3,15360.15,2.1,2025-05-05,South,Karnataka
+1189,Customer_189,Trichy,Smartwatch,Accessories,4,14668.18,4.7,2025-05-06,South,Tamil Nadu
+1190,Customer_190,Chennai,Tablet,Electronics,5,6138.67,3.5,2025-05-07,South,Tamil Nadu
+1191,Customer_191,Bengaluru,Camera,Electronics,1,39631.05,2.1,2025-05-07,South,Karnataka
+1192,Customer_192,Mumbai,Keyboard,Accessories,2,15332.97,4.9,2025-05-08,West,Maharashtra
+1193,Customer_193,Bengaluru,Printer,Electronics,3,11287.49,3.8,2025-05-09,South,Karnataka
+1194,Customer_194,Trichy,Monitor,Electronics,4,44134.08,2.4,2025-05-09,South,Tamil Nadu
+1195,Customer_195,Chennai,Laptop,Electronics,5,31682.3,3.5,2025-05-10,South,Tamil Nadu
+1196,Customer_196,Hyderabad,Headphones,Accessories,1,17016.89,3.9,2025-05-11,South,Telangana
+1197,Customer_197,Mumbai,Smartwatch,Accessories,2,13850.64,3.8,2025-05-11,West,Maharashtra
+1198,Customer_198,Bengaluru,Tablet,Electronics,3,9156.28,4.7,2025-05-12,South,Karnataka
+1199,Customer_199,Trichy,Camera,Electronics,4,17571.83,2.9733990147783245,2025-05-13,South,Tamil Nadu
+1200,Customer_200,Chennai,Keyboard,Accessories,5,14271.7,4.6,2025-05-13,South,Tamil Nadu
+1201,Customer_1,Hyderabad,Printer,Electronics,1,17016.89,2.9,2025-05-14,South,Telangana
+1202,Customer_2,Mumbai,Monitor,Electronics,2,11578.6,2.5,2025-05-15,West,Maharashtra
+1203,Customer_3,Bengaluru,Laptop,Electronics,3,31407.65,1.4,2025-05-15,South,Karnataka
+1204,Customer_4,Trichy,Headphones,Accessories,4,28504.25,4.4,2025-05-16,South,Tamil Nadu
+1205,Customer_5,Chennai,Smartwatch,Accessories,5,7568.23,2.4,2025-05-17,South,Tamil Nadu
+1206,Customer_6,Bengaluru,Tablet,Electronics,1,58964.52,4.2,2025-05-17,South,Karnataka
+1207,Customer_7,Mumbai,Camera,Electronics,2,30439.03,2.9733990147783245,2025-05-18,West,Maharashtra
+1208,Customer_8,Bengaluru,Keyboard,Accessories,3,17016.89,1.8,2025-05-19,South,Karnataka
